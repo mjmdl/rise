@@ -1,0 +1,12 @@
+[submodule "rise/foreign/imgui/imgui"]
+	path = rise/foreign/imgui/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "rise/foreign/spdlog"]
+	path = rise/foreign/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "rise/foreign/glfw"]
+	path = rise/foreign/glfw
+	url = https://github.com/glfw/glfw
+[submodule "rise/foreign/glm"]
+	path = rise/foreign/glm
+	url = https://github.com/icaven/glm
